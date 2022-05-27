@@ -1,2 +1,0 @@
-{:deps
- {org.clojure/data.json  {:mvn/version "0.2.6"}}}
